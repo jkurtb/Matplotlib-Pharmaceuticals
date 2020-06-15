@@ -1,2 +1,2 @@
-# Matplotlib-Pharmaceuticals
-Analyzing Pharmaceutical Datasets and Presenting Clinical Study Results through Python Matplotlib
+# Matplotlib-Pymaceuticals
+Using Python Matplotlib to Analyze & Generate Results of a Pharmaceutical Study
