@@ -13,6 +13,8 @@ Photo credits: Polina Tankilevitch via Pexels
   <img width="292" alt="HistoStat" src="https://user-images.githubusercontent.com/65078870/84745653-e1f8a700-af82-11ea-84d0-3af05dd87c54.PNG">
   </div>
 
+* The overall results of the tumor volume (mm3) showed a slightly left-skewed distribution.
+
 * A total number of 249 mice were tested but this analysis considers only 248, after Mouse ID g989 was dropped due to duplicate time points in the dataset.
 
 * Gender distribution consists of nearly equal number of female and male mice.
