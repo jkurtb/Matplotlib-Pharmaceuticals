@@ -15,6 +15,10 @@ Photo credits: Polina Tankilevitch via Pexels
 
 * The overall results of the tumor volume (mm3) showed a slightly left-skewed distribution.
 
+  <div align="center">
+  <img width="296" alt="HistoTumorVol" src="https://user-images.githubusercontent.com/65078870/84777295-682ae280-afaf-11ea-91ef-42d340ff2df0.PNG">
+  </div>
+
 * A total number of 249 mice were tested but this analysis considers only 248, after Mouse ID g989 was dropped due to duplicate time points in the dataset.
 
 * Gender distribution consists of nearly equal number of female and male mice.
