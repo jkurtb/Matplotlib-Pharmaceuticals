@@ -10,7 +10,7 @@ Photo credits: Polina Tankilevitch via Pexels
 
 * The comparative study of Capomulin treatment for squamous cell carcinoma (SCC) involves eight other drugs and a placebo regimen. Each were conducted to an average population of 189 mice. The sample size was not normally distributed. Capomulin drug had the maximum sample size of 230, while Propriva had the smallest sample of 161.
 
-<img width="292" alt="HistoStat" src="https://user-images.githubusercontent.com/65078870/84745653-e1f8a700-af82-11ea-84d0-3af05dd87c54.PNG">
+<div align="center">img width="292" alt="HistoStat" src="https://user-images.githubusercontent.com/65078870/84745653-e1f8a700-af82-11ea-84d0-3af05dd87c54.PNG"</div>
 
 * A total number of 249 mice were tested but this analysis considers only 248, after Mouse ID g989 was dropped due to duplicate time points in the dataset.
 
